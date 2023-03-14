@@ -1,11 +1,11 @@
 ### Hi, I´m Juan 👋
 # 💫 About Me:
-📚 I’m currently studying at Pontificia Universidad Javeriana ...
-🌱 I’m currently web development with Springboot and Angular ...
-💬Ask me about @NotNull
-:blue_heart: I really like mobile development and DevOps ...
-:penguin: Linux and ❤️ Open Source ...
-:bulb: Learning something new every day 
+📚 I’m currently studying at Pontificia Universidad Javeriana <br>
+🌱 I’m currently web development with Springboot and Angular <br>
+💬Ask me about @NotNull <br>
+:blue_heart: I really like mobile development and DevOps <br>
+:penguin: Linux and ❤️ Open Source <br>
+:bulb: Learning something new every day <br>
 
 
 ## 🌐 Contact Me:
