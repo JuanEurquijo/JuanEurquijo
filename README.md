@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 I’m currently studying at Pontificia Universidad Javeriana<br>🌱 I’m currently learning web development with Springboot and Angular<br>💙 I really like mobile development and DevOps<br>🐧 Linux Lover ❤️<br>💡 Learning something new every day 
+📚 Software Engineer at the Pontificia Universidad Javeriana<br>🌱 I’m currently working on web development with Springboot and Angular<br>💙 I really like mobile development and DevOps<br>🐧 Linux Lover ❤️<br>💡 Learning something new every day 
 
 
 ## 🌐 Socials:
